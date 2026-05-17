@@ -106,6 +106,25 @@ Tamil-Nadu-TDDI-Dashboard
 │── Dataset  
 
 ---
+## 🌍 Why This Project Matters
+Development is not uniform across districts. 
+This project creates a composite index (TDDI) to measure and compare development, helping identify gaps and priority areas.
+
+---
+## 💼 Use Case
+- Policy analysis  
+- District comparison  
+- Resource allocation  
+- Data storytelling  
+
+---
+## 🧠 Skills Demonstrated
+- Data Modeling  
+- DAX Calculations  
+- Dashboard Design  
+- Data Storytelling
+
+---
 
 ## ⭐ Support
 If you found this useful, consider giving a ⭐ to the repository!
